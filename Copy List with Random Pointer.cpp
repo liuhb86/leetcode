@@ -9,35 +9,35 @@
 class Solution {
 public:
     RandomListNode *copyRandomList(RandomListNode *head) {
-        vector<RandomListNode*> link;
 
         for (RandomListNode* cur= head; cur!=NULL;) {
             RandomListNode* p = new RandomListNode(cur->label);
-            link.push_back(cur);
             RandomListNode* next = cur->next;
             cur->next = p;
+            p->next = next;
             cur = next;
         }
         
+        for (RandomListNode* p = head; p!=NULL; p=p->next->next) {
+            p->next->random = p->random ? p->random->next : NULL;
+        }
+
         RandomListNode* result = NULL;
-        if (!link.empty()) result = link.front()->next;
         
-        for (int i=0;i<link.size();++i) {
-            link[i]->next->random = link[i]->random ? link[i]->random->next : NULL;
-            if (i ==link.size()-1) {
-                link[i]->next->next = NULL;
-            } else {
-                link[i]->next->next = link[i+1]->next;
-            }
-        }
+        RandomListNode** tail1 = &head;
+        RandomListNode** tail2 = &result;
         
-        for (int i=0;i<link.size();++i) {
-            if (i==link.size()-1) {
-                link[i]->next = NULL;
-            } else {
-                link[i]->next = link[i+1];
-            }
+        RandomListNode* p = head;
+        while(p) {
+            *tail1 = p;
+            tail1 = &(p->next);
+            p = p->next;
+            *tail2 = p;
+            tail2 = &(p->next);
+            p = p->next;
         }
+        *tail1 = NULL;
+        *tail2 = NULL;
 
         return result;
     }
