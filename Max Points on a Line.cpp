@@ -11,6 +11,7 @@ class Solution {
     struct Slope {
         int dx;
         int dy;
+        Slope(Point a, Point b) : dx(a.x-b.x), dy(a.y-b.y) {}
         bool operator<(const Slope& that) const {
             if (dx == 0 && that.dx !=0) return true;
             if (that.dx ==0) return false;
@@ -20,23 +21,20 @@ class Solution {
     };
 public:
     int maxPoints(vector<Point> &points) {
-        int mp = 0;
+        int result = 0;
         for (int i=0;i<points.size();++i) {
-            int p = 0;
-            int ms = 0;
+            int originCount = 0;
+            int maxSlopeCount = 0;
             map<Slope, int> slopes;
             for (int j=0;j<points.size(); ++j) {
-                if (points[i].x==points[j].x && points[i].y ==points[j].y) {++p; continue;}
-                Slope s;
-                s.dx = points[i].x - points[j].x;
-                s.dy = points[i].y - points[j].y;
-                int& count = slopes[s];
+                if (points[i].x==points[j].x && points[i].y==points[j].y) {++originCount; continue;}
+                int& count = slopes[Slope(points[i], points[j])];
                 ++count;
-                if (count > ms) ms = count;
+                if (count > maxSlopeCount) maxSlopeCount = count;
             }
-            int count = p + ms;
-            if (count > mp) mp = count;
+            int count = originCount + maxSlopeCount;
+            if (count > result) result = count;
         }
-        return mp;
+        return result;
     }
 };
