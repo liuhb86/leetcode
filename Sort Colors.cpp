@@ -1,13 +1,29 @@
 class Solution {
 public:
     void sortColors(int A[], int n) {
-        int count[3] ={0};
-        for (int i=0;i<n;++i) ++(count[A[i]]);
-        int* begin = A;
-        for (int i=0;i<3;++i) {
-            int* end = begin +count[i];
-            std::fill(begin, end, i);
-            begin = end;
+        int * r=A;
+        int * b=A+n-1;
+        for (int* p=A; p<=b;) {
+            if (*p==0) {
+                if (p!=r) {
+                    *p = *r;
+                    *r = 0;
+                    ++r;
+                } else {
+                    ++r;
+                    ++p;
+                }
+            } else if (*p==2) {
+                if (p!=b) {
+                    *p = *b;
+                    *b = 2;
+                    --b;
+                } else {
+                    --b;++p;
+                }
+            } else {
+                ++p;
+            }
         }
     }
 };
