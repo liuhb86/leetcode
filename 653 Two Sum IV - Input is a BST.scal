@@ -1,0 +1,29 @@
+/**
+ * Definition for a binary tree node.
+ * class TreeNode(var _value: Int) {
+ *   var value: Int = _value
+ *   var left: TreeNode = null
+ *   var right: TreeNode = null
+ * }
+ */
+object Solution {
+    def findTarget(root: TreeNode, k: Int): Boolean = {
+        findTwo(root, k, root)
+    }
+    
+    def findTwo(n: TreeNode, k: Int, root: TreeNode) : Boolean = {
+        if (n == null) return false
+        if (findTwo(n.left, k, root)) return true
+        if (n.value > k / 2) return false
+        if (find(root, k - n.value, n)) return true
+        if (findTwo(n.right, k, root)) return true
+        false
+    }
+    
+    def find(root: TreeNode, n: Int, self: TreeNode) : Boolean = {
+        if (root == null) return false
+        if (root.value == n) return root != self
+        if (n < root.value ) find(root.left, n, self)
+        else find(root.right, n, self)
+    }
+}
