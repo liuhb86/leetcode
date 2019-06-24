@@ -4,3 +4,11 @@
 1094. Car Pooling: sort, simulation
 1093. Statistics from a Large Sample: median, mode
 1023. Camelcase Matching: string
+409. Longest Palindrome: palindrome
+836. Rectangle Overlap: math, geometry, case
+1031. Maximum Sum of Two Non-Overlapping Subarrays: sliding window
+397. Integer Replacement: bit, math
+809. Expressive Words: string
+576. Out of Boundary Paths: dp
+400. Nth Digit: math, digit
+211. Add and Search Word - Data structure design: design, string search
