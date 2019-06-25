@@ -12,3 +12,11 @@
 576. Out of Boundary Paths: dp
 400. Nth Digit: math, digit
 211. Add and Search Word - Data structure design: design, string search
+609. Find Duplicate File in System: map, regex
+459. Repeated Substring Pattern: string, factor
+921. Minimum Add to Make Parentheses Valid: bracket
+901. Online Stock Span: stack
+1001. Grid Illumination: matrix, hashtable
+591. Tag Validator: parse
+639. Decode Ways II: dp, digit, case
+935. Knight Dialer: dp
