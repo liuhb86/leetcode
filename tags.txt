@@ -20,3 +20,13 @@
 591. Tag Validator: parse
 639. Decode Ways II: dp, digit, case
 935. Knight Dialer: dp
+947. Most Stones Removed with Same Row or Column: union-find
+529. Minesweeper: recursion
+871. Minimum Number of Refueling Stops: priority queue
+813. Largest Sum of Averages: dp
+863. All Nodes Distance K in Binary Tree: binary tree
+695. Max Area of Island: flood
+979. Distribute Coins in Binary Tree: binary tree
+191. Number of 1 Bits: bit
+387. First Unique Character in a String: frequency
+
