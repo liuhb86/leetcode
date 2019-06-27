@@ -29,4 +29,13 @@
 979. Distribute Coins in Binary Tree: binary tree
 191. Number of 1 Bits: bit
 387. First Unique Character in a String: frequency
-
+542. 01 Matrix: flood, bfs
+893. Groups of Special-Equivalent Strings: string,hashtable
+881. Boats to Save People: greedy, sort, two pointer
+432. All O`one Data Structure: double-linked list, hashtable, data structure, design
+1006. Clumsy Factorial: recursion, case
+981. Time Based Key-Value Store: data structure, design, tree map
+522. Longest Uncommon Subsequence II: subsequence
+955. Delete Columns to Make Sorted II: string
+565. Array Nesting: permutation cycle
+583. Delete Operation for Two Strings: dp
