@@ -39,3 +39,12 @@
 955. Delete Columns to Make Sorted II: string
 565. Array Nesting: permutation cycle
 583. Delete Operation for Two Strings: dp
+593. Valid Square: geometry
+991. Broken Calculator: math
+454. 4Sum II: sum, hashtable
+600. Non-negative Integers without Consecutive Ones: bit, dp, fibnacci
+391. Perfect Rectangle: geometry
+564. Find the Closest Palindrome: palindrome, digit, bigdecimal
+993. Cousins in Binary Tree: binary tree
+677. Map Sum Pairs: trie
+354. Russian Doll Envelopes: lis, binary search, sort
