@@ -55,3 +55,7 @@
 206. Reverse Linked List: linked list
 389. Find the Difference: string, frequency
 401. Binary Watch: binary, case
+412. Fizz Buzz
+437. Path Sum III: binary tree, running sum
+443. String Compression: string
+453. Minimum Moves to Equal Array Elements: array
