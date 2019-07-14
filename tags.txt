@@ -55,3 +55,9 @@
 206. Reverse Linked List: linked list
 389. Find the Difference: string, frequency
 401. Binary Watch: binary, case
+592. Fraction Addition and Subtraction: gcd, parse
+795. Number of Subarrays with Bounded Maximum: array, stack
+611. Valid Triangle Number: math,sort
+658. Find K Closest Elements: array, binary search
+1114. Print in Order: concurrency
+1115. Print FooBar Alternately: concurrency
