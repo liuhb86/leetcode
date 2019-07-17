@@ -78,3 +78,9 @@
 524. Longest Word in Dictionary through Deleting: string, subsequence
 552. Student Attendance Record II: dp
 855. Exam Room: hashtable, tree map
+1026. Maximum Difference Between Node and Ancestor: binary tree, dfs
+715. Range Module: tree map
+963. Minimum Area Rectangle II: geometry, hashtable
+792. Number of Matching Subsequences: string, subsequence
+946. Validate Stack Sequences: stack, simulation
+701. Insert into a Binary Search Tree: binary tree
