@@ -72,3 +72,9 @@
 1106. Parsing A Boolean Expression: parse
 1125. Smallest Sufficient Team: brute force, search
 652. Find Duplicate Subtrees: tree, hashtable
+497. Random Point in Non-overlapping Rectangles: random
+347. Top K Frequent Elements: sort
+1033. Moving Stones Until Consecutive: case
+524. Longest Word in Dictionary through Deleting: string, subsequence
+552. Student Attendance Record II: dp
+855. Exam Room: hashtable, tree map
