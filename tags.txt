@@ -84,3 +84,11 @@
 792. Number of Matching Subsequences: string, subsequence
 946. Validate Stack Sequences: stack, simulation
 701. Insert into a Binary Search Tree: binary tree
+712. Minimum ASCII Delete Sum for Two Strings: string, dp, subsequence
+720. Longest Word in Dictionary: string, hashtable
+667. Beautiful Arrangement II: math
+805. Split Array With Same Average: search
+950. Reveal Cards In Increasing Order: deque, simulation
+300. Longest Increasing Subsequence: lis
+
+
