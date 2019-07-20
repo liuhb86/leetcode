@@ -98,5 +98,8 @@
 606. Construct String from Binary Tree: binary tree
 820. Short Encoding of Words: trie
 780. Reaching Points: reverse
+797. All Paths From Source to Target: graph
+845. Longest Mountain in Array: case
+215. Kth Largest Element in an Array: priority queue
 
 
