@@ -101,5 +101,13 @@
 797. All Paths From Source to Target: graph
 845. Longest Mountain in Array: case
 215. Kth Largest Element in an Array: priority queue
-
-
+932. Beautiful Array: bit, d&c
+731. My Calendar II: tree map, interval
+919. Complete Binary Tree Inserter: binary tree, 
+513. Find Bottom Left Tree Value: binary tree
+1025. Divisor Game: math
+971. Flip Binary Tree To Match Preorder Traversal: binary tree
+5131. Minimum Cost Tree From Leaf Values: dp, ad-hoc, O(n)
+5132. Shortest Path with Alternating Colors: graph, shortest path
+5133. Maximum of Absolute Value Expression: array
+835. Image Overlap: matrix, bit
