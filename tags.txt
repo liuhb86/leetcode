@@ -111,3 +111,9 @@
 5132. Shortest Path with Alternating Colors: graph, shortest path
 5133. Maximum of Absolute Value Expression: array
 835. Image Overlap: matrix, bit
+420. Strong Password Checker: case
+952. Largest Component Size by Common Factor: prime, union-find
+865. Smallest Subtree with all the Deepest Nodes: binary tree
+495. Teemo Attacking: binary search
+1012. Numbers With Repeated Digits: digit, combination
+773. Sliding Puzzle: bit encoding, search, bfs
