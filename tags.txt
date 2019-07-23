@@ -117,3 +117,4 @@
 495. Teemo Attacking: binary search
 1012. Numbers With Repeated Digits: digit, combination
 773. Sliding Puzzle: bit encoding, search, bfs
+752. Open the Lock: search, bfs
