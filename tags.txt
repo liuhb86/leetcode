@@ -118,3 +118,8 @@
 1012. Numbers With Repeated Digits: digit, combination
 773. Sliding Puzzle: bit encoding, search, bfs
 752. Open the Lock: search, bfs
+287. Find the Duplicate Number: binary search, find loop
+406. Queue Reconstruction by Height: sort, insertion
+208. Implement Trie (Prefix Tree): trie
+925. Long Pressed Name: string
+646. Maximum Length of Pair Chain: sort
