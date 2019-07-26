@@ -123,3 +123,10 @@
 208. Implement Trie (Prefix Tree): trie
 925. Long Pressed Name: string
 646. Maximum Length of Pair Chain: sort
+910. Smallest Range II: array
+829. Consecutive Numbers Sum: math, factor
+377. Combination Sum IV: dp
+472. Concatenated Words: trie
+705. Design HashSet: data structure, design
+706. Design HashMap: data structure, design
+
