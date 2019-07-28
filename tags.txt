@@ -129,4 +129,12 @@
 472. Concatenated Words: trie
 705. Design HashSet: data structure, design
 706. Design HashMap: data structure, design
-
+733. Flood Fill: flood
+766. Toeplitz Matrix: matrix
+812. Largest Triangle Area: geometry
+994. Rotting Oranges: flood
+933. Number of Recent Calls: queue
+1138. Alphabet Board Path: corner case
+1139. Largest 1-Bordered Square: search, array sum
+1140. Stone Game II: game, dp
+313. Super Ugly Number: priority queue, hashtable
