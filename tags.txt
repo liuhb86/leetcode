@@ -138,3 +138,10 @@
 1139. Largest 1-Bordered Square: search, array sum
 1140. Stone Game II: game, dp
 313. Super Ugly Number: priority queue, hashtable
+382. Linked List Random Node: random, sampling
+392. Is Subsequence: subsequence
+398. Random Pick Index: random, sampling
+399. Evaluate Division: union-find
+421. Maximum XOR of Two Numbers in an Array: trie
+430. Flatten a Multilevel Doubly Linked List: stack, linked list
+
