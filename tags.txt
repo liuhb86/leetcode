@@ -144,4 +144,10 @@
 399. Evaluate Division: union-find
 421. Maximum XOR of Two Numbers in an Array: trie
 430. Flatten a Multilevel Doubly Linked List: stack, linked list
+481. Magical String: queue, simulation
+486. Predict the Winner: dp, game
+464. Can I Win: search, game
+508. Most Frequent Subtree Sum: binary tree
+567. Permutation in String: sliding
+491. Increasing Subsequences: generation
 
