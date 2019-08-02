@@ -150,4 +150,13 @@
 508. Most Frequent Subtree Sum: binary tree
 567. Permutation in String: sliding
 491. Increasing Subsequences: generation
+623. Add One Row to Tree: binary tree
+315. Count of Smaller Numbers After Self: array
+376. Wiggle Subsequence: array
+636. Exclusive Time of Functions: stack
+648. Replace Words: trie
+649. Dota2 Senate: simulation, circular list
+714. Best Time to Buy and Sell Stock with Transaction Fee:
+739. Daily Temperatures: stack
+740. Delete and Earn: dp
 
