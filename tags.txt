@@ -159,4 +159,7 @@
 714. Best Time to Buy and Sell Stock with Transaction Fee:
 739. Daily Temperatures: stack
 740. Delete and Earn: dp
-
+764. Largest Plus Sign: matrix
+769. Max Chunks To Make Sorted: array
+790. Domino and Tromino Tiling: dp
+802. Find Eventual Safe States: graph, bfs
