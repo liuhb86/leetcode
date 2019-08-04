@@ -163,3 +163,18 @@
 769. Max Chunks To Make Sorted: array
 790. Domino and Tromino Tiling: dp
 802. Find Eventual Safe States: graph, bfs
+858. Mirror Reflection: geometry, simulation
+875. Koko Eating Bananas: binary search
+877. Stone Game: dp, game
+898. Bitwise ORs of Subarrays: brute force, hashtable
+926. Flip String to Monotone Increasing: array, accumlate
+1143. Longest Common Subsequence: dp
+939. Minimum Area Rectangle: hashtable
+948. Bag of Tokens: two pointer
+951. Flip Equivalent Binary Trees: binary tree
+1144. Decrease Elements To Make Array Zigzag: array
+1145. Binary Tree Coloring Game: binary tree
+1146. Snapshot Array: data structure, array, immutable
+1147. Longest Chunked Palindrome Decomposition: string, palindrome
+
+
