@@ -176,5 +176,10 @@
 1145. Binary Tree Coloring Game: binary tree
 1146. Snapshot Array: data structure, array, immutable
 1147. Longest Chunked Palindrome Decomposition: string, palindrome
-
+967. Numbers With Same Consecutive Differences: digit
+988. Smallest String Starting From Leaf: binary tree, string
+1003. Check If Word Is Valid After Substitutions: stack
+1024. Video Stitching: greedy
+1035. Uncrossed Lines: dp
+1040. Moving Stones Until Consecutive II: sliding window, reverse thinking, hard
 
