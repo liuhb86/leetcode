@@ -182,4 +182,5 @@
 1024. Video Stitching: greedy
 1035. Uncrossed Lines: dp
 1040. Moving Stones Until Consecutive II: sliding window, reverse thinking, hard
-
+808. Soup Servings: probability, dp, large input return const
+1016. Binary String With Substrings Representing 1 To N: bit, silding window, large input return const
