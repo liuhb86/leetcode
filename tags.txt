@@ -184,3 +184,14 @@
 1040. Moving Stones Until Consecutive II: sliding window, reverse thinking, hard
 808. Soup Servings: probability, dp, large input return const
 1016. Binary String With Substrings Representing 1 To N: bit, silding window, large input return const
+253. Meeting Rooms II: priority queue
+336. Palindrome Pairs: trie, palindrome
+269. Alien Dictionary: topological sort
+224. Basic Calculator: parse, stack
+295. Find Median from Data Stream: median, deque, data structure
+975. Odd Even Jump: dp, tree map
+772. Basic Calculator III: parse, stack
+716. Max Stack: data structure, stack, priority queue, hashtable
+364. Nested List Weight Sum II: dfs
+410. Split Array Largest Sum: dp
+340. Longest Substring with At Most K Distinct Characters: sliding window, hashtable
