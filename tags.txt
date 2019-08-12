@@ -195,3 +195,12 @@
 364. Nested List Weight Sum II: dfs
 410. Split Array Largest Sum: dp
 340. Longest Substring with At Most K Distinct Characters: sliding window, hashtable
+642. Design Search Autocomplete System: design, trie, tree map, hashtable
+362. Design Hit Counter: design, circular list
+212. Word Search II: dfs
+1157. Online Majority Element In Subarray: majority, segment tree, random, tree map, hard
+218. The Skyline Problem: tree map
+1150. Check If a Number Is Majority Element in a Sorted Array: binary search
+1151. Minimum Swaps to Group All 1's Together: sliding window
+1152. Analyze User Website Visit Pattern: hashtable, brute force
+1153. String Transforms Into Another String: hashtable, bijection
