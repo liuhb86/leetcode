@@ -204,3 +204,7 @@
 1151. Minimum Swaps to Group All 1's Together: sliding window
 1152. Analyze User Website Visit Pattern: hashtable, brute force
 1153. String Transforms Into Another String: hashtable, bijection
+545. Boundary of Binary Tree: binary tree
+250. Count Univalue Subtrees: binary tree
+348. Design Tic-Tac-Toe: simulation
+992. Subarrays with K Different Integers: sliding window, hashtable
