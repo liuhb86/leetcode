@@ -208,3 +208,28 @@
 250. Count Univalue Subtrees: binary tree
 348. Design Tic-Tac-Toe: simulation
 992. Subarrays with K Different Integers: sliding window, hashtable
+698. Partition to K Equal Sum Subsets: brute force
+755. Pour Water: simulation, recursion
+426. Convert Binary Search Tree to Sorted Doubly Linked List: binary tree, linked list
+244. Shortest Word Distance II: hashtable
+314. Binary Tree Vertical Order Traversal: binary tree
+379. Design Phone Directory: design
+708. Insert into a Cyclic Sorted List: linked list, case
+353. Design Snake Game: design
+1057. Campus Bikes: bucket sort, brute force
+277. Find the Celebrity: interactive, greedy
+635. Design Log Storage System: tree map
+694. Number of Distinct Islands: hashtable, flood
+1162. As Far from Land as Possible: matrix, bfs
+1161. Maximum Level Sum of a Binary Tree: binary tree, bfs
+1163. Last Substring in Lexicographical Order: memo
+286. Walls and Gates: matrix, bfs
+333. Largest BST Subtree: binary tree
+251. Flatten 2D Vector: design
+366. Find Leaves of Binary Tree: binary tree
+742. Closest Leaf in a Binary Tree: binary tree
+247. Strobogrammatic Number II: enumeration, dfs
+490. The Maze: dfs
+616. Add Bold Tag in String: priority queue, segment
+505. The Maze II: priority queue, matrix
+
