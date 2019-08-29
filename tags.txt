@@ -232,4 +232,35 @@
 490. The Maze: dfs
 616. Add Bold Tag in String: priority queue, segment
 505. The Maze II: priority queue, matrix
+723. Candy Crush: simulation
+311. Sparse Matrix Multiplication: matrix
+325. Maximum Size Subarray Sum Equals k: subarray
+261. Graph Valid Tree: tree, union-find
+280. Wiggle Sort: greedy
+1027. Longest Arithmetic Sequence: dp, hashtable
+323. Number of Connected Components in an Undirected Graph: graph, union find
+361. Bomb Enemy: matrix, cache
+255. Verify Preorder Sequence in Binary Search Tree: bst, preorder
+285. Inorder Successor in BST: bst
+359. Logger Rate Limiter: desigin, hashtable
+339. Nested List Weight Sum: recursion
+1066. Campus Bikes II: search, memo
+186. Reverse Words in a String II: string
+1055. Shortest Way to Form String: subsequence
+776. Split BST: bst
+281. Zigzag Iterator: data structure, linked list
+156. Binary Tree Upside Down: binary tree
+249. Group Shifted Strings: hashtable
+267. Palindrome Permutation II: permutation, palindrome
+298. Binary Tree Longest Consecutive Sequence: binary tree
+681. Next Closest Time: enumeration
+1171. Remove Zero Sum Consecutive Nodes from Linked List: linked list
+1167. Minimum Cost to Connect Sticks: greedy, priority queue
+1169. Invalid Transactions: sorting
+1172. Dinner Plate Stacks: priority queue
+1062. Longest Repeating Substring: hash
+510. Inorder Successor in BST II: binary tree
+439. Ternary Expression Parser: parse
+702. Search in a Sorted Array of Unknown Size: binary search
+259. 3Sum Smaller: two pointer
 
