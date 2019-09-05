@@ -263,4 +263,12 @@
 439. Ternary Expression Parser: parse
 702. Search in a Sorted Array of Unknown Size: binary search
 259. 3Sum Smaller: two pointer
-
+741. Cherry Pickup: dp, n3, hard
+312. Burst Balloons: dp, reverse thinking
+1177. Can Make Palindrome from Substring: palindrome
+5176. Number of Valid Words for Each Puzzle: bit
+428. Serialize and Deserialize N-ary Tree: tree, serialize
+843. Guess the Word: interactive
+759. Employee Free Time: interval
+770. Basic Calculator IV: parse, expression
+329. Longest Increasing Path in a Matrix: dp, flood
