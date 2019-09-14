@@ -272,3 +272,12 @@
 759. Employee Free Time: interval
 770. Basic Calculator IV: parse, expression
 329. Longest Increasing Path in a Matrix: dp, flood
+489. Robot Room Cleaner: dfs, simulation
+317. Shortest Distance from All Buildings: bfs
+1187. Make Array Strictly Increasing: dp
+1186. Maximum Subarray Sum with One Deletion: subarray
+403. Frog Jump: dp
+440. K-th Smallest in Lexicographical Order: digit
+1183. Maximum Number of Ones: matrix
+480. Sliding Window Median: media, tree map
+887. Super Egg Drop: dp
