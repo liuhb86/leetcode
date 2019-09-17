@@ -281,3 +281,5 @@
 1183. Maximum Number of Ones: matrix
 480. Sliding Window Median: media, tree map
 887. Super Egg Drop: dp
+214. Shortest Palindrome: string, kmp
+1188. Design Bounded Blocking Queue: concurrency
