@@ -301,4 +301,7 @@
 1203. Sort Items by Groups Respecting Dependencies: topological sort
 1202. Smallest String With Swaps: union find, greedy
 42. Trapping Rain Water: two pointer
+1201. Ugly Number III: binary search
+276. Paint Fence: dp
+750. Number Of Corner Rectangles: bitset
 
