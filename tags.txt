@@ -309,4 +309,17 @@
 1208. Get Equal Substrings Within Budget: sliding window
 1209. Remove All Adjacent Duplicates in String II: stack
 1210. Minimum Moves to Reach Target with Rotations: bfs
+1223. Dice Roll Simulation: dp
+1224. Maximum Equal Frequency: hashtable, case
+1227. Airplane Seat Assignment Probability: math, probability
+1228. Missing Number In Arithmetic Progression: binary search
+1229. Meeting Scheduler: two pointer
+1230. Toss Strange Coins: dp
+1231. Divide Chocolate: binary search
+1232. Check If It Is a Straight Line: geometry
+1233. Remove Sub-Folders from the Filesystem: trie
+1234. Replace the Substring for Balanced String: sliding window
+1235. Maximum Profit in Job Scheduling: dp, tree map
+1236. Web Crawler: dfs
+1237. Find Positive Integer Solution for a Given Equation: two pointer
 
