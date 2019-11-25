@@ -331,3 +331,21 @@
 1248. Count Number of Nice Subarrays: sliding window
 1249. Minimum Remove to Make Valid Parentheses: stack
 1250. Check If It Is a Good Array: math, gcd
+673. Number of Longest Increasing Subsequence: dp
+1252. Cells with Odd Values in a Matrix: math, bit
+1253. Reconstruct a 2-Row Binary Matrix: greedy
+1254. Number of Closed Islands: flood
+1255. Maximum Score Words Formed by Letters: brute force
+1256. Encode Number: bit
+1257. Smallest Common Region: linked list
+1258. Synonymous Sentences: union find, brute force
+1259. Handshakes That Don't Cross: dp
+1260. Shift 2D Grid: matrix
+1261. Find Elements in a Contaminated Binary Tree: bit, trie
+1262. Greatest Sum Divisible by Three: case
+1263. Minimum Moves to Move a Box to Their Target Location: search, bfs, dfs
+1265. Print Immutable Linked List in Reverse: list, divide
+1268. Search Suggestions System: trie
+1269. Number of Ways to Stay in the Same Place After Some Steps: dp
+1242. Web Crawler Multithreaded: concurrency, crawler
+1226. The Dining Philosophers: concurrency
