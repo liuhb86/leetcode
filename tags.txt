@@ -304,6 +304,9 @@
 1201. Ugly Number III: binary search
 276. Paint Fence: dp
 750. Number Of Corner Rectangles: bitset
+282. Expression Add Operators: dfs, search
+689. Maximum Sum of 3 Non-Overlapping Subarrays: dp
+418. Sentence Screen Fitting: hashtable, simulation
 465. Optimal Account Balancing: hard, greedy, np, dp
 659. Split Array into Consecutive Subsequences: greedy
 1208. Get Equal Substrings Within Budget: sliding window
